@@ -2,8 +2,8 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: documentation
-assignees: german-boop
+labels: ''
+assignees: ''
 
 ---
 
