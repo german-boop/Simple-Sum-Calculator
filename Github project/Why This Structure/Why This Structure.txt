@@ -1,0 +1,9 @@
+Keeps the original code intact - Uses your exact logic
+
+- Minimal overhead - No unnecessary files
+
+- Easy to understand - Perfect for beginners
+
+- GitHub ready - Includes essential documentation
+
+This is the most minimal, standard-compliant way to package your exact code for GitHub.

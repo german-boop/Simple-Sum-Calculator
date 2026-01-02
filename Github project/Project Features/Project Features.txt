@@ -1,0 +1,7 @@
+Minimal: Single file with no dependencies
+
+Clear: Simple, readable code
+
+Portable: Works with any Python 3 installation
+
+Educational: Easy to understand and modify
